@@ -1,5 +1,14 @@
 <header>
 
+# WHAT
+
+We are editing the README.
+We are allowed to this.
+Github wants it. I am doing it.
+I press that button
+It is a blue button. I will press it.
+...
+
 # Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
